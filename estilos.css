@@ -1,0 +1,48 @@
+h2{
+	font-size: 30px;
+}
+.sub{
+	text-decoration: underline;
+}
+.rgb{
+	color: rgb(25,200,100);
+}
+a:visited{
+	color:purple;
+}
+.rojo{
+	color:red;
+}
+.ama{
+	color:yellow;
+}
+.ver{
+	color:green;
+}
+.bla{
+	color:white;
+}
+.nar{
+	color:orange;
+}
+table{
+	border-collapse:collapse;
+	font-family: arial;
+}
+td{
+	border:solid 1px black;
+}
+.fver{
+	background-color:green;
+}
+footer{
+	position: relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: red;
+	color: white;
+	text-align: center;
+}
+
+	
